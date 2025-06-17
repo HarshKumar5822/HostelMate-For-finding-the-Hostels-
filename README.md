@@ -49,7 +49,7 @@ HostelMate/
 ### 👉 Step 1: Clone the Repository
 
 `` bash
-git clone https://github.com/your-username/HostelMate.git
+git clone https://github.com/HarshKumar5822/HostelMate.git
 - cd HostelMate
 
 ### 👉 Step 2: Run the Frontend
